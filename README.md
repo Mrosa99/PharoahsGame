@@ -36,4 +36,4 @@ To play **Pharaoh's Curse**, follow these steps:
 
 ## Disclaimer
 
-Please note that this project was developed as part of a class assignment within a limited timeframe. As a result, some planned features and enhancements may not have been fully implemented or work as intended. We appreciate your understanding.
+Please note that this project was developed as part of a class assignment within a limited timeframe. As a result, some planned features and enhancements may not have been fully implemented or function as intended. We appreciate your understanding.
