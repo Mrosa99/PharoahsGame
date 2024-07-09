@@ -23,10 +23,9 @@ Embark on a thrilling journey through multiple levels of the pyramid, each fille
 
 To play **Pharaoh's Curse**, follow these steps:
 1. Clone the repository to your local machine.
-2. Open the project in Unity (version 2022.3.30f1 or higher).
-3. Double click the Game Folder
-4. Open the "My Project.exe" executable file to run the game
-5. To close the game; press the Alt+F4 combination
+2. Double click the Game Folder
+3. Open the "My Project.exe" executable file to run the game
+4. To close the game; press the Alt+F4 combination
 
    
 
